@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.SideMenu.SimpleSample", "Xamarin.SideMenu.SimpleSample\Xamarin.SideMenu.SimpleSample.csproj", "{44FA11CF-3AEE-4842-B225-69CDD557DC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FA11CF-3AEE-4842-B225-69CDD557DC90}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{44FA11CF-3AEE-4842-B225-69CDD557DC90}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{44FA11CF-3AEE-4842-B225-69CDD557DC90}.Release|iPhone.ActiveCfg = Release|iPhone
+		{44FA11CF-3AEE-4842-B225-69CDD557DC90}.Release|iPhone.Build.0 = Release|iPhone
+		{44FA11CF-3AEE-4842-B225-69CDD557DC90}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{44FA11CF-3AEE-4842-B225-69CDD557DC90}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{44FA11CF-3AEE-4842-B225-69CDD557DC90}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{44FA11CF-3AEE-4842-B225-69CDD557DC90}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
