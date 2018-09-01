@@ -106,5 +106,10 @@
     <Compile Include="SideMenuSample.cs" />
     <Compile Include="SampleTableView.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\img01.png" />
+    <BundleResource Include="Resources\img02.png" />
+    <BundleResource Include="Resources\img03.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
