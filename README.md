@@ -6,4 +6,4 @@
 
 <img src="https://github.com/fnya/Xamarin.SideMenu.SimpleSample/blob/master/Xamarin.SideMenu.SimpleSample/Resources/img01.png" width="250" height="400"> <img src="https://github.com/fnya/Xamarin.SideMenu.SimpleSample/blob/master/Xamarin.SideMenu.SimpleSample/Resources/img02.png" width="250"  height="400"> <img src="https://github.com/fnya/Xamarin.SideMenu.SimpleSample/blob/master/Xamarin.SideMenu.SimpleSample/Resources/img03.png" width="250" height="400">
 
-ライセンスは、一応、大元の MIT ライセンスを継承しています。
+ライセンスは、一応、`Xamarin.SideMenu`の MIT ライセンスを継承しています。
